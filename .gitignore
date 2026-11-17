@@ -1,0 +1,5 @@
+.env
+.deepeval/
+chroma_db/
+uploaded_pdfs/
+__pycache__/
